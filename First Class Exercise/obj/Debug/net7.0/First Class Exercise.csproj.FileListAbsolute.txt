@@ -1,0 +1,14 @@
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\First Class Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\First Class Exercise.AssemblyInfoInputs.cache
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\First Class Exercise.AssemblyInfo.cs
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\First Class Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\bin\Debug\net7.0\First Class Exercise.exe
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\bin\Debug\net7.0\First Class Exercise.deps.json
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\bin\Debug\net7.0\First Class Exercise.runtimeconfig.json
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\bin\Debug\net7.0\First Class Exercise.dll
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\bin\Debug\net7.0\First Class Exercise.pdb
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\First Class Exercise.dll
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\refint\First Class Exercise.dll
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\First Class Exercise.pdb
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\First Class Exercise.genruntimeconfig.cache
+C:\Users\Erika Bolley\Documents\Visual Studios\First Class Exercise Sln\First Class Exercise\obj\Debug\net7.0\ref\First Class Exercise.dll
